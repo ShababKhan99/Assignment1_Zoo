@@ -10,7 +10,8 @@ body {
   background-image: url(Leaves.jpg);
 }
 p,
-ul {
+ul,
+h2 {
   line-height: 1.5em;
   background-color: #888888;
   padding: 20px;
