@@ -1,0 +1,20 @@
+h1 {
+  text-decoration: underline overline;
+  font-size: 250%;
+  color: aliceblue;
+}
+body {
+  color: #1d3f86;
+  font-size: 15px;
+  font-family: Verdana, Arial, Geneva, Arial Black;
+  background-image: url(Leaves.jpg);
+}
+p,
+ul {
+  line-height: 1.5em;
+  background-color: #888888;
+  padding: 20px;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+}
